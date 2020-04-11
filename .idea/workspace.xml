@@ -2,16 +2,15 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="366ababd-bc9e-4647-8817-895a7cde0307" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.babelrc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/nodemon.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/api/User/allUsers/allUsers.graphql" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/api/User/allUsers/allUsers.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/api/User/userById/userById.graphql" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/api/User/userById/userById.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/api/models.graphql" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/schema.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/server.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/assets/fonts/OpenSans-Bold.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/assets/fonts/OpenSans-Regular.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/bootstrap.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/navigation/AppNavigation.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/screens/AccountScreen.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/screens/MainScreen.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -30,10 +29,13 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/client/assets/fonts" />
     <property name="nodejs_package_manager_path" value="npm" />
   </component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/client/assets/fonts" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/src" />
     </key>
@@ -60,7 +62,8 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1586355327961</updated>
-      <workItem from="1586355329860" duration="8305000" />
+      <workItem from="1586355329860" duration="8750000" />
+      <workItem from="1586512162967" duration="12787000" />
     </task>
     <servers />
   </component>
@@ -72,5 +75,9 @@
       <screen x="0" y="0" width="1440" height="900" />
     </state>
     <state x="448" y="250" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1440.900@0.0.1440.900" timestamp="1586442778882" />
+    <state x="498" y="299" key="git4idea.rebase.GitRebaseDialog" timestamp="1586458240877">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="498" y="299" key="git4idea.rebase.GitRebaseDialog/0.0.1440.900@0.0.1440.900" timestamp="1586458240877" />
   </component>
 </project>
